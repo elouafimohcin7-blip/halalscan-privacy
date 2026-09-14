@@ -1,0 +1,1 @@
+# halalscan-privacy
